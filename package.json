@@ -1,0 +1,33 @@
+{
+  "name": "requirable",
+  "version": "0.0.1",
+  "description": "Require ts, css, html and sass files in angular2 application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tamascsaba/ng2-requirable.git"
+  },
+  "keywords": [
+    "angular2",
+    "require",
+    "ng2",
+    "typescript",
+    "html",
+    "css",
+    "sass"
+  ],
+  "author": "Csaba Tamas <tamcsaba@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tamascsaba/ng2-requirable/issues"
+  },
+  "homepage": "https://github.com/tamascsaba/ng2-requirable",
+  "dependencies": {
+    "sassport": "^0.7.1",
+    "ts-node": "^0.5.4",
+    "typescript": "^1.7.5"
+  }
+}
