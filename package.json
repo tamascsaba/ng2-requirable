@@ -1,6 +1,6 @@
 {
   "name": "requirable",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "Require ts, css, html and sass files in angular2 application",
   "main": "index.js",
   "scripts": {
